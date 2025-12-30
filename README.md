@@ -41,6 +41,19 @@ This project demonstrates a production-grade data engineering pipeline that orch
 │              (trigger_rule: all_done)                        │
 └─────────────────────────────────────────────────────────────┘
 ```
+adhoc_spark_job_on_dataproc
+
+<img width="1728" height="1039" alt="image" src="https://github.com/user-attachments/assets/84ce84ac-2bfa-4be9-8de1-8f70843a323a" />
+
+airflow_spark_job.py
+
+<img width="1721" height="945" alt="image" src="https://github.com/user-attachments/assets/d7fdb3eb-8ae2-43c9-9143-0f32fee4814f" />
+
+
+<img width="3426" height="1772" alt="image" src="https://github.com/user-attachments/assets/3286204f-4799-4f41-81cc-072bad5d282b" />
+
+
+
 
 ---
 
